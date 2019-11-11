@@ -1,0 +1,9 @@
+{
+    "TOKEN": "NjQyMDQyNTgwODA0MDQyNzUy.XcRK3w.ZGSTAvcPkUVqdNQzRviZnc5qzTw",
+    "channel": "642040187089715226",
+    "access_TOKEN": "24.a4bd4dc7a6dd951b3fc73897eb3b8a1a.2592000.1574891061.282335-17630942",
+    "translator_appid": "20191018000342616",
+    "translator_secretKey": "U0Ppe_75uiVR2aJmcLw_",
+    "Affective_disposition_analysis_url": "https://aip.baidubce.com/rpc/2.0/nlp/v1/sentiment_classify",
+    "time": "1800"
+}
